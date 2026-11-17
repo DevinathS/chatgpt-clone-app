@@ -1,4 +1,4 @@
-# ChatClone: a full-stack ChatGPT-style chat app
+# ChatGPTClone: a full-stack ChatGPT-style chat app
 
 A conversational chat application that reproduces the look and core behaviour of ChatGPT's
 interface (sidebar, "Where should we begin?" start screen, streaming replies, light/dark
